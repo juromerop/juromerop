@@ -26,13 +26,12 @@ My professional journey has taken me from building academic platforms with React
 ## 📂 Featured Projects
 Even though most of my repositories are learning-focused, they reflect my curiosity and continuous improvement mindset:  
 
-- 🐶 **[DoggieHommie](https://github.com/juromerop/DoggieHommie)** – Python project exploring basic app structure.  
+- 💱 **[CurrencyApp](https://github.com/juromerop/CurrencyApp)** – Kotlin mobile app for currency conversion (practice).  
+- 🔧 **[TechTrendEmporium](https://github.com/Santiago-Olivera/TechTrendEmporium)** – Java backend challenge (collaboration). 
 - 🖼️ **[Art-Sender](https://github.com/juromerop/Art-Sender)** – Shell scripting challenge.  
 - 🧮 **[ComputerScienceChallenge](https://github.com/juromerop/ComputerScienceChallenge)** – Python exercises on CS fundamentals.  
-- 📊 **[CsvFormatter](https://github.com/juromerop/CsvFormatter)** – PowerShell script for data formatting.  
-- 💱 **[CurrencyApp](https://github.com/juromerop/CurrencyApp)** – Kotlin mobile app for currency conversion (practice).  
-- 🔧 **[TechTrendEmporium](https://github.com/Santiago-Olivera/TechTrendEmporium)** – Java backend challenge (collaboration).  
-
+- 📊 **[CsvFormatter](https://github.com/juromerop/CsvFormatter)** – PowerShell script for data formatting.   
+- 🐶 **[DoggieHommie](https://github.com/juromerop/DoggieHommie)** – Python project exploring basic app structure.  
 ---
 
 ## 🌱 Current Focus
